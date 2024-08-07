@@ -12,7 +12,6 @@ Welcome to my repository showcasing the Java assignments I've completed as part 
   - [Assignment 3: Object-Oriented Programming](#assignment-3-object-oriented-programming)
   - [Assignment 4: Java Collections Framework](#assignment-4-java-collections-framework)
   - [Assignment 5: Advanced Topics](#assignment-5-advanced-topics)
-- [How to Use](#how-to-use)
 - [Acknowledgments](#acknowledgments)
 
 ## Introduction
@@ -33,28 +32,22 @@ The program is structured into several modules, each focusing on different aspec
 
 ### Assignment 1: Basic Java Programs
 - **Description**: Introduction to Java basics, including variables, data types, and operators.
-- **Code**: [Basic Java Programs](assignments/Assignment1_BasicJavaPrograms)
 
 ### Assignment 2: Control Structures
 - **Description**: Working with conditional statements, loops, and exception handling.
-- **Code**: [Control Structures](assignments/Assignment2_ControlStructures)
 
 ### Assignment 3: Object-Oriented Programming
 - **Description**: Implementing classes, objects, inheritance, polymorphism, and encapsulation.
-- **Code**: [Object-Oriented Programming](assignments/Assignment3_OOP)
 
 ### Assignment 4: Java Collections Framework
 - **Description**: Understanding and implementing various data structures such as arrays, linked lists, stacks, queues, and using the collections framework.
-- **Code**: [Java Collections Framework](assignments/Assignment4_JavaCollectionsFramework)
 
 ### Assignment 5: Advanced Topics
 - **Description**: Exploring advanced Java topics including multithreading, file I/O, and network programming.
-- **Code**: [Advanced Topics](assignments/Assignment5_AdvancedTopics)
 
-## How to Use
+## Acknowledgments
 
-1. **Clone the Repository**: 
-   ```sh
-   git clone https://github.com/yourusername/tns-java-assignments.git
-   cd tns-java-assignments
+A big thank you to **TNS India Foundation** for providing this valuable training program. Special thanks to the instructors and mentors for their guidance and support throughout the course. 🎉🙏
+
+
 
